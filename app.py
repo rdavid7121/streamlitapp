@@ -91,7 +91,7 @@ with st.container():
             that were present on the surface as well as buried underground.
             """
         )
-        st.markdown("[Watch Video...](https://youtu.be/FOULV9Xij_8)")
+        st.markdown("[Watch Video...]()")
 
 # ---- CONTACT ----
 with st.container():
@@ -101,7 +101,7 @@ with st.container():
 
     # Documention: https://formsubmit.co/ !!! CHANGE EMAIL ADDRESS !!!
     contact_form = """
-    <form action="(https://formsubmit.co/rdavid7121@gmail.com)" 
+    <form action="https://formsubmit.co/rdavid7121@gmail.com" 
     method="POST">
         <input type="hidden" name="_captcha" value="false">
         <input type="text" name="name" placeholder="Your name" required>
